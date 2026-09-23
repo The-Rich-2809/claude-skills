@@ -11,10 +11,17 @@
         "source": "github",
         "repo": "Felo-Inc/felo-skills"
       }
+    },
+    "fullstack-dev-skills": {
+      "source": {
+        "source": "github",
+        "repo": "jeffallan/claude-skills"
+      }
     }
   },
   "enabledPlugins": {
     "cloudflare@cloudflare": true,
-    "felo-slides@felo-ai": true
+    "felo-slides@felo-ai": true,
+    "fullstack-dev-skills@fullstack-dev-skills": true
   }
 }
