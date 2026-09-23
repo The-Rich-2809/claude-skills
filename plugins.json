@@ -1,0 +1,20 @@
+{
+  "marketplaces": {
+    "cloudflare": {
+      "source": {
+        "source": "github",
+        "repo": "cloudflare/skills"
+      }
+    },
+    "felo-ai": {
+      "source": {
+        "source": "github",
+        "repo": "Felo-Inc/felo-skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "cloudflare@cloudflare": true,
+    "felo-slides@felo-ai": true
+  }
+}
